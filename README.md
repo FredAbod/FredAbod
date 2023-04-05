@@ -1,4 +1,4 @@
-### Hi 👋, I'm Fredrick
+### Hi 👋, I'm Fredrick Boluwatife Abodunrin
 
 ![](https://res.cloudinary.com/del59phog/image/upload/v1659356374/67094375_716522275447307_2970687578514128896_n_1_iw8str.jpg)
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/boluwatifelori_" target="blank"><img src="https://img.shields.io/twitter/follow/boluwatifelori_?logo=twitter&style=for-the-badge" alt="boluwatifelori_" /></a> </p>
 
-- 🌱 I’m currently learning **back end web development**
+- 🌱 I'm a backend web developer
 
 - 📫 How to reach me **fredrickbolutife@gmail.com**
 
