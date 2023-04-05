@@ -2,7 +2,7 @@
 
 ![](https://res.cloudinary.com/del59phog/image/upload/v1659356374/67094375_716522275447307_2970687578514128896_n_1_iw8str.jpg)
 
-<h3 align="center">A student of back end software development from Nigeria</h3>
+<h3 align="center">A Nodejs Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredabod" alt="fredabod" /></a> </p>
 
