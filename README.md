@@ -11,6 +11,11 @@
 - 🌱 I'm a backend web developer
 
 - 📫 How to reach me **fredrickbolutife@gmail.com**
+  
+- Projects I've worked on
+  [Grazac Academy](https://grazacacademy.com/)
+  [HacktheJobs](https://www.hackthejobs.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
