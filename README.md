@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fredrick Abodunrin</h1>
 
-![](https://res.cloudinary.com/del59phog/image/upload/v1659356374/67094375_716522275447307_2970687578514128896_n_1_iw8str.jpg)
+![](https://res.cloudinary.com/del59phog/image/upload/v1710501090/g2iqtm9xqjrygtuozwqj.jpg)
 
 <h3 align="left">A Nodejs Developer</h3>
 <h3 align="center">I am a curious software developer proficient in JavaScript, TypeScript, MongoDB, PostgreSQL, MySQL, Render, Heroku, and AWS. Passionate about creating innovative software solutions that meet people's needs, I am seeking a role in a team of ambitious professionals dedicated to achieving the company's goals and success. Additionally, I actively contribute to the growth of the tech community by sharing my knowledge and mentoring upcoming developers.</h3>
