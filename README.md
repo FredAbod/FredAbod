@@ -3,17 +3,13 @@
 ![](https://res.cloudinary.com/del59phog/image/upload/v1710501090/g2iqtm9xqjrygtuozwqj.jpg)
 
 <h3 align="left">A Nodejs Developer</h3>
-<h3 align="center">I am a curious software developer proficient in JavaScript, TypeScript, MongoDB, PostgreSQL, MySQL, Render, Heroku, and AWS. Passionate about creating innovative software solutions that meet people's needs, I am seeking a role in a team of ambitious professionals dedicated to achieving the company's goals and success. Additionally, I actively contribute to the growth of the tech community by sharing my knowledge and mentoring upcoming developers.</h3>
+<h3 align="center"> Passionate software developer with expertise in JavaScript, TypeScript, and databases including MongoDB, PostgreSQL, and MySQL. Proficient in deploying applications using Render, Heroku, and AWS. Dedicated to crafting innovative software solutions that address real-world challenges. Actively engaged in the tech community through knowledge sharing and mentoring aspiring developers. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredabod&label=Profile%20views&color=0e75b6&style=flat" alt="fredabod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredabod" alt="fredabod" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/boluwatifelori_" target="blank"><img src="https://img.shields.io/twitter/follow/boluwatifelori_?logo=twitter&style=for-the-badge" alt="boluwatifelori_" /></a> </p>
-
-- 🔭 I’m currently working on [HackTheJobs](hackthejobs.com)
-
-- 🌱 I’m currently learning **Unit Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FredAbod](https://github.com/FredAbod)
 
