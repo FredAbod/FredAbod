@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/boluwatifelori_" target="blank"><img src="https://img.shields.io/twitter/follow/boluwatifelori_?logo=twitter&style=for-the-badge" alt="boluwatifelori_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/FredAbod](https://github.com/FredAbod)
+- 👨‍💻 You can also check out my [portfolio]([https://github.com/FredAbod](https://beautiful-boluwatife-portfolio.lovable.app/))
 
-- 📝 I regularly write articles on [https://dev.to/fredabod](https://dev.to/fredabod)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/fredabod)
 
 - 💬 Ask me about **Nodejs, TypeScript**
 
