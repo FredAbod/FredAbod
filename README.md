@@ -130,7 +130,7 @@ const fredrick = {
 
 I regularly share insights on backend engineering, system design, and best practices:
 
-- **50,000+ reads** on [Dev.to](https://dev.to/fredabod)
+- **66,000+ reads** on [Dev.to](https://dev.to/fredabod)
 - Topics: Node.js architecture, database optimization, real-time systems, payment integrations
 - Open-source contributions featuring API patterns, Dockerized applications, and GraphQL templates
 
@@ -141,7 +141,7 @@ I regularly share insights on backend engineering, system design, and best pract
 
 ## 🎓 Education & Credentials
 
-**B.Sc. Software Engineering** | *Miva Open University* (In Progress)
+**B.Sc. Software Engineering** | *Miva Open University* (First Class Honours)
 
 **OND Mechatronics, Robotics & Automation Engineering** | *Lagos State Polytechnic* (Upper Class)
 
