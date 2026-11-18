@@ -6,7 +6,7 @@
   ### Team Lead | Senior Backend Engineer
   **Building High-Performance Systems That Scale**
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://fredrick-abodunrin.lovable.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://fredabod.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fredrick-abodunrin)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/boluwatifelori_)
   [![Dev.to](https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/fredabod)
