@@ -24,13 +24,13 @@ I'm a **Senior Backend Engineer** with **5+ years** of experience architecting a
 ```typescript
 const fredrick = {
   location: "Lagos, Nigeria 🇳🇬",
-  currentRole: "Team Lead & Senior Backend Engineer",
+  currentRole: "Senior Backend Engineer & Software Engineer",
   expertise: ["Node.js", "TypeScript", "System Architecture", "Fintech"],
   passion: "Building systems that scale and solve real problems",
   impact: {
     dailyTransactions: "10,000+",
     apiLatency: "<200ms",
-    tutorialReads: "50,000+",
+    tutorialReads: "66,000+",
     engineersTrained: "150+"
   }
 };
